@@ -1,10 +1,9 @@
 import Head from "next/head";
 import {
-  AiFillTwitterCircle,
   AiFillLinkedin,
   AiFillYoutube,
 } from "react-icons/ai";
-import { FaSquareXTwitter } from "react-icons/fa6";
+import { BsTwitterX } from "react-icons/bs";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import deved from "../public/dev-ed-wave.png";
@@ -62,7 +61,7 @@ export default function Home() {
               . Join me down below and let's get cracking!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <FaSquareXTwitter />
+              <BsTwitterX />
               <AiFillLinkedin />
               <AiFillYoutube />
             </div>
