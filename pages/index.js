@@ -1,6 +1,6 @@
 import Head from "next/head";
 import {
-  AiFillTwitterCircle,
+  AiFillXCircle,
   AiFillLinkedin,
   AiFillYoutube,
 } from "react-icons/ai";
