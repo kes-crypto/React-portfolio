@@ -2,6 +2,8 @@ import Head from "next/head";
 import {
   AiFillLinkedin,
   AiFillYoutube,
+  AiFillTwitter,
+  AiFillX
 } from "react-icons/ai";
 import { BsTwitterX } from "react-icons/bs";
 import { BsFillMoonStarsFill } from "react-icons/bs";
